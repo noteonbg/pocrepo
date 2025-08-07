@@ -1,4 +1,0 @@
-"#poc line 1" 
-#poc line 2 modified in git hub.
-"poc3.txt" 
-"poc4.txt"
